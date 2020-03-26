@@ -1,0 +1,72 @@
+{
+  "duration": [
+    {
+      "id": 1,
+      "value": 1,
+      "label": "Corto",
+      "minutes": 30,
+      "hours": 0
+    },
+    {
+      "id": 2,
+      "value": 2,
+      "label": "Media",
+      "minutes": 45,
+      "hours": 0
+    },
+    {
+      "id": 3,
+      "value": 3,
+      "label": "Largo",
+      "minutes": 0,
+      "hours": 1
+    }
+  ],
+  "tasks": [
+    {
+      "name": "none",
+      "durationId": 1,
+      "hours": 0,
+      "minutes": 30,
+      "description": "none",
+      "status": "start",
+      "id": 7
+    },
+    {
+      "name": "none",
+      "durationId": 2,
+      "hours": 0,
+      "minutes": 45,
+      "description": "nonw",
+      "status": "start",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "durationId": 2,
+      "hours": 0,
+      "minutes": 45,
+      "description": "none",
+      "status": "start",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "durationId": 2,
+      "hours": 0,
+      "minutes": 45,
+      "description": "none",
+      "status": "start",
+      "id": 10
+    },
+    {
+      "name": "qwerty",
+      "durationId": 3,
+      "hours": 1,
+      "minutes": 0,
+      "description": "poiuy",
+      "status": "start",
+      "id": 11
+    }
+  ]
+}
